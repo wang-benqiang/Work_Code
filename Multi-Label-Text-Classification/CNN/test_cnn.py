@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-__author__ = 'Randolph'
+__author__ = 'Wang'
 
 import os
 import sys
