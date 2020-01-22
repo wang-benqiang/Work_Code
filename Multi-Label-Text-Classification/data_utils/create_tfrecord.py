@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-
+__author__ = 'Wang'
 
 import numpy as np
 import tensorflow as tf
