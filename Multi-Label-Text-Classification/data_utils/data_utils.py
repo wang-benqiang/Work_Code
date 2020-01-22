@@ -1,3 +1,6 @@
+# -*- coding:utf-8 -*-
+__author__ = 'Wang'
+
 import pickle
 from collections import OrderedDict
 import numpy as np
@@ -8,9 +11,6 @@ import tokenization
 import os
 import pkuseg       #分词工具
 seg=pkuseg.pkuseg()
-
-
-
 
 def dump_zhidao(zhidao_path,save_path):
     """
