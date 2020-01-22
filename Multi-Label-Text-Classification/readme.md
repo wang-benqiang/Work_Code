@@ -12,8 +12,8 @@
 
 
 运行方式：
-修改数据集和词向量地址
 
-1. run data_utils
-2. run create_record
-3. run train_cnn.py
+1. 修改数据集和词向量地址
+2. run data_utils
+3. run create_record
+4. run train_cnn.py
